@@ -1,0 +1,50 @@
+name: Daily Auto Commit
+
+on:
+  schedule:
+    - cron: "30 18 * * *"   # runs 18:30 UTC = 00:00 IST daily
+  workflow_dispatch: {}       # lets you trigger it manually to test
+
+permissions:
+  contents: write
+
+jobs:
+  check-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Check hours since last commit
+        id: check
+        run: |
+          last_commit_ts=$(git log -1 --format=%ct)
+          now_ts=$(date +%s)
+          diff_hours=$(( (now_ts - last_commit_ts) / 3600 ))
+          echo "Hours since last commit: $diff_hours"
+          if [ "$diff_hours" -ge 24 ]; then
+            echo "should_commit=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "should_commit=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Set up Python
+        if: steps.check.outputs.should_commit == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate problem solution
+        if: steps.check.outputs.should_commit == 'true'
+        run: python generate_problem.py
+
+      - name: Commit and push
+        if: steps.check.outputs.should_commit == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add solutions/ used_problems.json
+          git commit -m "Auto commit: daily practice problem [skip ci]"
+          git push
