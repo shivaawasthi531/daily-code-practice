@@ -1,5 +1,6 @@
 [
   "palindrome",
   "max_subarray",
-  "reverse_string"
+  "reverse_string",
+  "bubble_sort"
 ]
