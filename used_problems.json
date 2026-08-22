@@ -3,5 +3,6 @@
   "max_subarray",
   "reverse_string",
   "bubble_sort",
-  "anagram_check"
+  "anagram_check",
+  "binary_search"
 ]
