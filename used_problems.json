@@ -4,5 +4,6 @@
   "reverse_string",
   "bubble_sort",
   "anagram_check",
-  "binary_search"
+  "binary_search",
+  "linked_list_reverse"
 ]
