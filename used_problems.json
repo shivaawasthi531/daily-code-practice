@@ -6,5 +6,6 @@
   "anagram_check",
   "binary_search",
   "linked_list_reverse",
-  "gcd"
+  "gcd",
+  "factorial"
 ]
