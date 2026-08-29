@@ -7,5 +7,6 @@
   "binary_search",
   "linked_list_reverse",
   "gcd",
-  "factorial"
+  "factorial",
+  "merge_sorted_arrays"
 ]
