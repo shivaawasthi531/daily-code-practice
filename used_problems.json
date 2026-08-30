@@ -8,5 +8,6 @@
   "linked_list_reverse",
   "gcd",
   "factorial",
-  "merge_sorted_arrays"
+  "merge_sorted_arrays",
+  "fibonacci"
 ]
