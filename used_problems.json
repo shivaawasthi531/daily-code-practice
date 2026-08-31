@@ -9,5 +9,6 @@
   "gcd",
   "factorial",
   "merge_sorted_arrays",
-  "fibonacci"
+  "fibonacci",
+  "two_sum"
 ]
