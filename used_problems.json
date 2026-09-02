@@ -10,5 +10,6 @@
   "factorial",
   "merge_sorted_arrays",
   "fibonacci",
-  "two_sum"
+  "two_sum",
+  "is_prime"
 ]
