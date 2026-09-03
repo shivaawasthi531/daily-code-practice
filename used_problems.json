@@ -11,5 +11,6 @@
   "merge_sorted_arrays",
   "fibonacci",
   "two_sum",
-  "is_prime"
+  "is_prime",
+  "count_vowels"
 ]
