@@ -12,5 +12,6 @@
   "fibonacci",
   "two_sum",
   "is_prime",
-  "count_vowels"
+  "count_vowels",
+  "power_of_two"
 ]
