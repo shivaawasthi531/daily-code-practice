@@ -1,4 +1,5 @@
 [
   "binary_search",
-  "reverse_string"
+  "reverse_string",
+  "count_vowels"
 ]
