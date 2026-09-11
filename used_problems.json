@@ -1,5 +1,6 @@
 [
   "binary_search",
   "reverse_string",
-  "count_vowels"
+  "count_vowels",
+  "is_prime"
 ]
