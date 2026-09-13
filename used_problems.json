@@ -2,5 +2,6 @@
   "binary_search",
   "reverse_string",
   "count_vowels",
-  "is_prime"
+  "is_prime",
+  "fibonacci"
 ]
