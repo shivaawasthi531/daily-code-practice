@@ -3,5 +3,6 @@
   "reverse_string",
   "count_vowels",
   "is_prime",
-  "fibonacci"
+  "fibonacci",
+  "power_of_two"
 ]
