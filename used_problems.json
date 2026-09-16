@@ -4,5 +4,6 @@
   "count_vowels",
   "is_prime",
   "fibonacci",
-  "power_of_two"
+  "power_of_two",
+  "linked_list_reverse"
 ]
