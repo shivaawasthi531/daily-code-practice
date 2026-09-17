@@ -5,5 +5,6 @@
   "is_prime",
   "fibonacci",
   "power_of_two",
-  "linked_list_reverse"
+  "linked_list_reverse",
+  "gcd"
 ]
