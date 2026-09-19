@@ -6,5 +6,6 @@
   "fibonacci",
   "power_of_two",
   "linked_list_reverse",
-  "gcd"
+  "gcd",
+  "two_sum"
 ]
