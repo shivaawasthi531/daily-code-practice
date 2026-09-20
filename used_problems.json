@@ -7,5 +7,6 @@
   "power_of_two",
   "linked_list_reverse",
   "gcd",
-  "two_sum"
+  "two_sum",
+  "palindrome"
 ]
