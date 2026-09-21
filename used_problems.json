@@ -8,5 +8,6 @@
   "linked_list_reverse",
   "gcd",
   "two_sum",
-  "palindrome"
+  "palindrome",
+  "bubble_sort"
 ]
