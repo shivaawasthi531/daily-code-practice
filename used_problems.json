@@ -9,5 +9,6 @@
   "gcd",
   "two_sum",
   "palindrome",
-  "bubble_sort"
+  "bubble_sort",
+  "anagram_check"
 ]
