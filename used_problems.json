@@ -10,5 +10,6 @@
   "two_sum",
   "palindrome",
   "bubble_sort",
-  "anagram_check"
+  "anagram_check",
+  "factorial"
 ]
