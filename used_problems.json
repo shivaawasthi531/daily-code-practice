@@ -11,5 +11,6 @@
   "palindrome",
   "bubble_sort",
   "anagram_check",
-  "factorial"
+  "factorial",
+  "merge_sorted_arrays"
 ]
