@@ -12,5 +12,6 @@
   "bubble_sort",
   "anagram_check",
   "factorial",
-  "merge_sorted_arrays"
+  "merge_sorted_arrays",
+  "max_subarray"
 ]
