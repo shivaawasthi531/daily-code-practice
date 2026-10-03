@@ -1,5 +1,6 @@
 [
   "binary_search",
   "palindrome",
-  "count_vowels"
+  "count_vowels",
+  "reverse_string"
 ]
