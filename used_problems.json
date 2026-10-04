@@ -2,5 +2,6 @@
   "binary_search",
   "palindrome",
   "count_vowels",
-  "reverse_string"
+  "reverse_string",
+  "fibonacci"
 ]
