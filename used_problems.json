@@ -3,5 +3,6 @@
   "palindrome",
   "count_vowels",
   "reverse_string",
-  "fibonacci"
+  "fibonacci",
+  "factorial"
 ]
