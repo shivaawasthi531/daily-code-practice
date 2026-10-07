@@ -4,5 +4,6 @@
   "count_vowels",
   "reverse_string",
   "fibonacci",
-  "factorial"
+  "factorial",
+  "anagram_check"
 ]
