@@ -6,5 +6,6 @@
   "fibonacci",
   "factorial",
   "anagram_check",
-  "is_prime"
+  "is_prime",
+  "gcd"
 ]
