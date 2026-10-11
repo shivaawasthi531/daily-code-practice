@@ -7,5 +7,6 @@
   "factorial",
   "anagram_check",
   "is_prime",
-  "gcd"
+  "gcd",
+  "linked_list_reverse"
 ]
