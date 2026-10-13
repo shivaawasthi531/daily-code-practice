@@ -8,5 +8,6 @@
   "anagram_check",
   "is_prime",
   "gcd",
-  "linked_list_reverse"
+  "linked_list_reverse",
+  "bubble_sort"
 ]
