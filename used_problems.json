@@ -9,5 +9,6 @@
   "is_prime",
   "gcd",
   "linked_list_reverse",
-  "bubble_sort"
+  "bubble_sort",
+  "two_sum"
 ]
