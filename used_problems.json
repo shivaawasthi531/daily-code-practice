@@ -10,5 +10,6 @@
   "gcd",
   "linked_list_reverse",
   "bubble_sort",
-  "two_sum"
+  "two_sum",
+  "merge_sorted_arrays"
 ]
