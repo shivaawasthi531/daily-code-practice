@@ -11,5 +11,6 @@
   "linked_list_reverse",
   "bubble_sort",
   "two_sum",
-  "merge_sorted_arrays"
+  "merge_sorted_arrays",
+  "power_of_two"
 ]
