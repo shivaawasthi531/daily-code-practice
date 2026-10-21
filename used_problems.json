@@ -1,17 +1,3 @@
 [
-  "binary_search",
-  "palindrome",
-  "count_vowels",
-  "reverse_string",
-  "fibonacci",
-  "factorial",
-  "anagram_check",
-  "is_prime",
-  "gcd",
-  "linked_list_reverse",
-  "bubble_sort",
-  "two_sum",
-  "merge_sorted_arrays",
-  "power_of_two",
-  "max_subarray"
+  "reverse_string"
 ]
