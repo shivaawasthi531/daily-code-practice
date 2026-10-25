@@ -1,4 +1,5 @@
 [
   "reverse_string",
-  "merge_sorted_arrays"
+  "merge_sorted_arrays",
+  "linked_list_reverse"
 ]
