@@ -2,5 +2,6 @@
   "reverse_string",
   "merge_sorted_arrays",
   "linked_list_reverse",
-  "power_of_two"
+  "power_of_two",
+  "bubble_sort"
 ]
