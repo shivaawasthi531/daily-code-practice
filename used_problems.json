@@ -4,5 +4,6 @@
   "linked_list_reverse",
   "power_of_two",
   "bubble_sort",
-  "two_sum"
+  "two_sum",
+  "count_vowels"
 ]
