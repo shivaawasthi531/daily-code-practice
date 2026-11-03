@@ -6,5 +6,6 @@
   "bubble_sort",
   "two_sum",
   "count_vowels",
-  "fibonacci"
+  "fibonacci",
+  "binary_search"
 ]
