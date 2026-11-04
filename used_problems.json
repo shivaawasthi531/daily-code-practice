@@ -7,5 +7,6 @@
   "two_sum",
   "count_vowels",
   "fibonacci",
-  "binary_search"
+  "binary_search",
+  "max_subarray"
 ]
