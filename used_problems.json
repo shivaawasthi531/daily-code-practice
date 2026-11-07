@@ -8,5 +8,6 @@
   "count_vowels",
   "fibonacci",
   "binary_search",
-  "max_subarray"
+  "max_subarray",
+  "anagram_check"
 ]
