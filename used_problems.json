@@ -10,5 +10,6 @@
   "binary_search",
   "max_subarray",
   "anagram_check",
-  "palindrome"
+  "palindrome",
+  "factorial"
 ]
