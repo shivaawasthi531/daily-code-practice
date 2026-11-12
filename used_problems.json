@@ -11,5 +11,6 @@
   "max_subarray",
   "anagram_check",
   "palindrome",
-  "factorial"
+  "factorial",
+  "is_prime"
 ]
