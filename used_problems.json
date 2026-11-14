@@ -12,5 +12,6 @@
   "anagram_check",
   "palindrome",
   "factorial",
-  "is_prime"
+  "is_prime",
+  "gcd"
 ]
