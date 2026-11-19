@@ -1,4 +1,5 @@
 [
   "factorial",
-  "palindrome"
+  "palindrome",
+  "anagram_check"
 ]
