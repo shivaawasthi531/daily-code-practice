@@ -1,5 +1,6 @@
 [
   "factorial",
   "palindrome",
-  "anagram_check"
+  "anagram_check",
+  "reverse_string"
 ]
